@@ -53,5 +53,5 @@ Customer segmentation is crucial for businesses to tailor their marketing effort
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/customer-segmentation.git
+https://github.com/mahshar-yahan/Customer-Segmentation.git
 cd customer-segmentation
